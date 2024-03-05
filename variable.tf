@@ -11,7 +11,6 @@ variable "subnet1_cidr" {
 }
 
 #cidr block for 2nd subnet
-
 variable "subnet2_cidr" {
   default = "10.0.2.0/24"
 }
