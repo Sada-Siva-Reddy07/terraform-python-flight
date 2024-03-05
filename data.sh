@@ -1,3 +1,4 @@
+#!/bin/bash
 sudo yum -y install git 
 git clone https://github.com/Sada-Siva-Reddy07/flight-perdiction.git
 cd flight-perdiction
