@@ -1,5 +1,5 @@
 #provider
 
 provider "aws" {
-  region = "eu-north-1c"
+  region = "eu-north-1"
 }
